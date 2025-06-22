@@ -1,33 +1,31 @@
-# 👋 Hi there! I'm Panos ![GitHub followers](https://img.shields.io/github/followers/panossmav?label=Follow&style=social) 
+# Panos (panossmav)
 
+## Σχετικά με εμένα
+Είμαι πλήρως αφοσιωμένος προγραμματιστής με έδρα την Αθήνα, Ελλάδα, με εμπειρία στην ανάπτυξη ιστοσελίδων και εφαρμογών. Επιδιώκω συνεχώς να βελτιώνω τις δεξιότητές μου και να δημιουργώ προϊόντα πρακτικής αξίας για μικρές και μεσαίες επιχειρήσεις.
 
-### 👨‍💻 About Me:
-![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
+## Δεξιότητες
+- **Frontend**: HTML5, CSS3, JavaScript  
+- **Backend & Scripting**: Python, C  
+- **Frameworks & Εργαλεία**: Flask, Django, Git, RESTful APIs  
+- **Άλλα**: Responsive Design, GitHub Pages, Docker (βασικές γνώσεις)
 
-I'm an aspiring developer based in Athens, Greece. I'm currently learning and building projects using:
+## Έργα
 
-- 🧱 HTML, CSS, JavaScript
-- 🐍 Python
-- 💻 C
+### Tap2Add
+Απλός, στατικός ιστότοπος για επιχειρήσεις που επιθυμούν γρήγορη παρουσίαση προϊόντων με δυνατότητα άμεσης επικοινωνίας.  
+- **Ιστότοπος**: https://tap2add.github.io  
+- **Κώδικας**: https://github.com/panossmav/tap2add  
 
-I'm mostly working on creating **static websites** for small businesses, combining HTML/CSS/JS. I also explore Python and C for scripting and logic building (arrays, functions, variables).
+### CRMLite
+Ελαφρύ εργαλείο CRM για διαχείριση πελατειακών επαφών και παραγγελιών, σχεδιασμένο για μικρές ομάδες.  
+- **Κώδικας**: https://github.com/panossmav/CRMLite  
 
----
+### GKBM LTD
+Επαγγελματικός, στατικός ιστότοπος εταιρείας, με έμφαση στην παρουσίαση υπηρεσιών και προϊόντων.  
+- **Ιστότοπος**: https://gkbmltd.github.io  
+- **Κώδικας**: https://github.com/panossmav/gkbmltd  
 
-### 🚀 Projects
-
-Here are a few things I've built:
-
-- [🔗 Tap2Add Website](https://tap2add.github.io) | [📁 GitHub Repo](https://github.com/tap2add/tap2add)
-- [🔗 GKBM LTD Website](https://gkbmltd.github.io) | [📁 GitHub Repo](https://github.com/gkbmltd/gkbmltd)
-
----
-
-### 📫 Contact
-
-- 📍 Athens, Greece  
-- 📧 panosss.mav@gmail.com  
-- 📬 [Telegram](https://t.me/mavr0sppm)
+## Επικοινωνία
+- **Τοποθεσία**: Αθήνα, Ελλάδα  
+- **Email**: panosss.mav@gmail.com  
+- **Telegram**: https://t.me/mavr0sppm  
