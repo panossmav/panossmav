@@ -5,9 +5,9 @@
 
 ## Δεξιότητες
 - **Frontend**: HTML5, CSS3, JavaScript  
-- **Backend & Scripting**: Python, C  
+- **Backend & Scripting** (Βασικές γνώσεις): Python, C  
 - **Frameworks & Εργαλεία**: Flask, Django, Git, RESTful APIs  
-- **Άλλα**: Responsive Design, GitHub Pages, Docker (βασικές γνώσεις)
+- **Άλλα**: Responsive Design, GitHub Pages, 
 
 ## Έργα
 
